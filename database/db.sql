@@ -1,0 +1,1 @@
+INSERT INTO productos (nombre, grupo, precio, costo, profit) VALUES ('Flor de caña 4 Años 1L','RON',90,80,10);
